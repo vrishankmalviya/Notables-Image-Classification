@@ -1,0 +1,20 @@
+INSERT INTO `pizza_cafe`.`sales` (`customer_id`, `order_date`, `product_id`, `rating`) VALUES ('A', '2023-11-03', '110', '3.2');
+INSERT INTO `pizza_cafe`.`sales` (`customer_id`, `order_date`, `product_id`, `rating`) VALUES ('Z', '2023-11-03', '103', '4.5');
+INSERT INTO `pizza_cafe`.`sales` (`customer_id`, `order_date`, `product_id`, `rating`) VALUES ('S', '2023-11-03', '102', '3.9');
+INSERT INTO `pizza_cafe`.`sales` (`customer_id`, `order_date`, `product_id`, `rating`) VALUES ('H', '2023-11-03', '103', '4.1');
+
+
+What is the total amount each customer spent at the cafe?
+
+how many days has each customer visited the restraunt?
+
+what is the most purchased item on the menu and how many times was it purchased?
+
+what item was the popular for each customer?
+
+what is the first item from the menu purchased by each customer?
+
+differnce between dense rank and row number?
+
+
+https://xl.taleo.net/careersection/001xlcatlinexternalcareersection/jobdetail.ftl?job=3806927&src=LinkedIn
